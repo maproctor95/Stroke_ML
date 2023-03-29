@@ -39,10 +39,14 @@ Project_4_Group_1 : https://github.com/maproctor95/Stroke_ML
 
 * Data Model Implementation
     * We used Kaggle data from : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset 
-    *
+    * Cleaning
+        * Once we found the data we pulled the CSV and imported it into our jupyter notebook. During this time we cleaned the data by turning all the words into dummy numbers to better train the model. After adjusting the data we dropped all the null values in the dataset. Once our data was cleaned we created a testing model through the use of spliting and scaling the dataset to start the machine learning process.
+    * Creating a Database
+        * We created a SQL database using PGAdmin. During the process we used the original data set and made a table and then imported the data into the created table. During the creation process we learned that some of the data was very interesting, for example there were decimals in the age column as well as very young ages within the dataset that we did not expect.
+    ![1](Images/SQL.png)
+    * Visualizing
+        * 
      
 * Data Model Optimization
-    *
-   
-### Pictures
+    * 
 
