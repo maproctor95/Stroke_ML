@@ -1,5 +1,6 @@
 # Stroke_ML
 Project_4_Group_1 : https://github.com/maproctor95/Stroke_ML
+Presentation: https://www.canva.com/design/DAFeEYevC_E/qr58pjAJQq_8s5F0WTod9w/view?utm_content=DAFeEYevC_E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ## Overview of Project
 * Data Model Implementation
     * Student produces an analytical model in Python that fulfills all the following specifications:
