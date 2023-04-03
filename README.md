@@ -50,6 +50,16 @@ Presentation:https://www.canva.com/design/DAFeEYevC_E/qr58pjAJQq_8s5F0WTod9w/vie
     ![1](Images/SQL.png)
     * Visualizing
         * 
+        * Age vs Glucose Levels
+        ![12](Images/Age_vs_Glucose_Levels.png)
+        * Heart vs Gender Smoking Status
+        ![13](Images/Heart_vs_Gender_Smoking_Status.png)
+        * Stroke vs Smoking Status
+        ![14](Images/Stroke_vs_Smoking_Status.png)
+        * Stroke Marriage
+        ![15](Images/Stroke_Marriage.png)
+        * Strokes vs Work Types
+        ![16](Images/Strokes_vs_Work_Types.png)
 
 * Data Model Optimization
     * 
