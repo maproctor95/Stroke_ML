@@ -49,6 +49,7 @@ Presentation:https://www.canva.com/design/DAFeEYevC_E/qr58pjAJQq_8s5F0WTod9w/vie
         * We created a SQL database using PGAdmin. During the process we used the original data set and made a table and then imported the data into the created table. During the creation process we learned that some of the data was very interesting, for example there were decimals in the age column as well as very young ages within the dataset that we did not expect.
     ![1](Images/SQL.png)
     * Visualizing
+        * To visualize the data we decided to use Tableau. While creating the graphs we were able to see some interesting data points. In one of the graphs we binned the Age column and compared it to the Ever Married Column. We found that majority of the dataset that were ever married suffered from a stroke compared to those who were not. It sparked a question on whether stress could possibly be a factor on those who've had a stroke. We also compared The smoking status between genders and who were more likely to have a stroke. The data shows that more women who have never smoked are more than likely to have a stroke more than a men were former smokers. I believe it can conclude that nicotine doesnt play a factor on the likely hood to have a stroke. However in another graph we compared the heart disease column to the gender column and their smoking status. More men are likely to have heart disease that either never smoked or were former smokers compared to women. 
         * 
         * Age vs Glucose Levels
         ![12](Images/Age_vs_Glucose_Levels.png)
