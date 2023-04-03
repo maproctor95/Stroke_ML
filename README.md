@@ -54,8 +54,8 @@ Presentation:https://www.canva.com/design/DAFeEYevC_E/qr58pjAJQq_8s5F0WTod9w/vie
 * Data Model Optimization
     * 
     * Forest
-    ![4](Images/Forest1.png)
-    ![5](Images/Forest2.png)
+    ![4](Images/Forest_1.png)
+    ![5](Images/Forest_2.png)
     * Logistic Regression
     ![6](Images/LR1.png)
     ![7](Images/LR2.png)
