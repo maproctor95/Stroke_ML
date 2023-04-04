@@ -71,5 +71,5 @@ Presentation:https://www.canva.com/design/DAFeEYevC_E/qr58pjAJQq_8s5F0WTod9w/vie
     ![8](Images/LR3.png)
     * K Neighborhood Classifier
     ![9](Images/K1.png)
-    ![10](Images/K2.png)
-    ![11](Images/K3.png)
+    ![10](Images/K2.png
+    ![11](Images/Optimizing_K_value_KNN.png)
